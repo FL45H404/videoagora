@@ -11,7 +11,7 @@ var appCertificate = "<YOUR APP CERTIFICATE>";
 
 ```shell
 npm i
-node DemoServer.js
+node server.js
 ```
 
 ## Generate Token
